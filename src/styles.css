@@ -1,0 +1,9 @@
+button {
+    display: inline-flex;
+    margin: 5px;
+    text-transform: capitalize;
+}
+
+li {
+    list-style-type: none;
+}
