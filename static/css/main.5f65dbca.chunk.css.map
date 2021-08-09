@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,OACI,mBAAoB,CACpB,UAAW,CACX,yBACJ,CAEA,GACI,oBACJ","file":"main.5f65dbca.chunk.css","sourcesContent":["button {\n    display: inline-flex;\n    margin: 5px;\n    text-transform: capitalize;\n}\n\nli {\n    list-style-type: none;\n}"]}
